@@ -38,7 +38,7 @@ React
 
     1.- El proyecto se creo con VITE con el comando de: 
         npm create vite@latest
-        Y se siguieron las instrucciones
+        Y se siguieron las siguientes instrucciones
 
     2.- Llenar un select con un arreglo dinamicamente ( Video 307. Creando el Formulario )
         y el ejemplo de como hacerlo esta en el componente de Formulario.jsx
