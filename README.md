@@ -1,4 +1,4 @@
-# React-Cotizador
+# React-Cotizador-Autos
 Sobre el proyecto
 
     Cotizador de gastos de autos, el cual consta de dos select y dos radio buttons
